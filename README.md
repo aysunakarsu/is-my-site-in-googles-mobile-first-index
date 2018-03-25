@@ -13,3 +13,6 @@ gnuplot is_my_site_in_googles_mobile_first_index.h
 3) Now you can visualize your image at command line 
 xdg-open GooglebotUserAgent.png
 
+You can check this blog post for more information
+https://www.searchdatalogy.com/blog/is-my-site-in-googles-mobile-first-index/
+
