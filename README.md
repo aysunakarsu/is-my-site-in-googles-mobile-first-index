@@ -1,6 +1,6 @@
 # is-my-site-in-googles-mobile-first-index
 
-Below is the format of the logs which is used in bash shell scripts for analyzing web server logs
+Below is the format of the logs which bash shell scripts analyze web server logs
 
 66.249.76.115 - - [18/Dec/2017:02:58:22 -0500] "GET / HTTP/1.1" 200 6105 "-" "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
 
